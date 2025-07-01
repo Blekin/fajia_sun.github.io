@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Introduction"
+title: "Background"
 author_profile: true
 redirect_from: 
   - /about/
@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 I obtained my Bachelor's degree in Life Sciences from Shandong University in 2018, followed by a PhD in Integrated Life Sciences from Peking University in 2023. Two years later, I finished my Postdoc at Peking Univeristy.
-My research focuses on the interdisciplinary area of computational biology, DNA data storage, and nanopore sequencing. By integrating theoretical modeling, computational approaches, and experimental validation, my work aims to address key challenges in complex biological systems.
 
 Research Interests
 ======
