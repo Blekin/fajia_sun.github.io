@@ -21,7 +21,7 @@ My research focuses on bridging computation and biology to explore new frontiers
 Position in Scientific Publishing
 ======
 - Community Reviewer Board of [Springer Nature](https://www.springernature.com/gp)
-- Reviewers for top academic journals such as [Nature Communications]（https://www.nature.com/ncomms/）
+- Reviewers for top academic journals such as [Nature Communications](https://www.nature.com/ncomms/)
 - Young editorial board members of [Advanced Genetics](https://advanced.onlinelibrary.wiley.com/journal/26416573) and [Interdisciplinary Sciences-Computational Life Sciences](https://www.springer.com/12539)
 
 Academic Meetings
